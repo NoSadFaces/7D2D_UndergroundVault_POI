@@ -1,0 +1,10 @@
+!INSTALL!
+
+Place the "KTR_UNDERGROUNDVVAULT" files in local 7 Days to Die prefabs folder
+
+    7 Days to Die > Data > Prefabs
+
+The POI is placed and fit to the terrain on Pregen03.
+Replace the Prefabs.xml of PREGEN03 (or make a copy of the world and replace .xml)
+
+    7 Days to Die > Data > Worlds > PREGEN03
