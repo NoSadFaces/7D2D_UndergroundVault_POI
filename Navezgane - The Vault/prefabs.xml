@@ -1039,7 +1039,7 @@
     <decoration type="model" name="gravestowne_city_blk_01" position="-1738,60,-1801" rotation="0" />
     <decoration type="model" name="gravestowne_city_blk_01" position="-1626,60,-1801" rotation="0" />
     <decoration type="model" name="gravestowne_city_blk_01" position="-1626,60,-1689" rotation="0" />
-    <decoration type="model" name="KTR_NAZEGANE_UNDERGROUNDVAULT" position="-1878,13,-1863" rotation="0" />
+    <decoration type="model" name="KTR_NAVEZGANE_UNDERGROUNDVAULT" position="-1878,13,-1863" rotation="0" />
     <decoration type="model" name="gravestowne_city_blk_01" position="-1739,60,-1913" rotation="0" />
     <decoration type="model" name="gravestowne_city_blk_01" position="-1626,60,-1913" rotation="0" />
     <decoration type="model" name="player_start1" position="-7,61,261" rotation="2" />
